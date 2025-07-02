@@ -16,7 +16,7 @@ To analyze and visualize Airbnb listing data for New York City in 2024 and answe
 
 ## 🖼 Preview
 
-![Airbnb NYC EDA Preview](https://github.com/Tushark6038/AirBnB-Python-EDA-Project/blob/ff3d71e76c5ad0c3449bc4743a3aa78822661c2b/Preview.pdf)
+![Airbnb NYC EDA Preview](https://github.com/Tushark6038/AirBnB-Python-EDA-Project/blob/66cf2f9e326e1211409ec3dee88766e10fa4ac58/Preview.png)
 
 
 ---
